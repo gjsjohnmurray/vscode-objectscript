@@ -1,3 +1,4 @@
+// Insignificant change attempting to trigger a SonarSource Cloud re-analysis.
 export const extensionId = "intersystems-community.vscode-objectscript";
 export const lsExtensionId = "intersystems.language-server";
 export const smExtensionId = "intersystems-community.servermanager";
